@@ -9,6 +9,7 @@
 - [Jon Goodwin](https://github.com/Jon-Goodwin)
 - [Bob Qin](https://github.com/Bob200409)
 - [Mir-Asim-Ali](https://mirasim.netlify.app/)
+- [GAGAN R](https://github.com/defender-777)
 - [GENJI J](https://github.com/anya-minamoto)
 - [Mihir M](https://github.com/mihirm3hub)
 - [Algacyr Melo](https://github.com/algacyr-melo)
